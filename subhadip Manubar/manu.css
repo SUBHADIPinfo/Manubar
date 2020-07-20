@@ -1,0 +1,39 @@
+ .acolor 
+{
+	overflow: hidden;
+	background-color: #4b526b;
+	
+}
+
+.acolor a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  
+  
+}
+
+.acolor a:hover { 
+      background-color: #4caf50;
+     color: #efecec; 
+	
+	
+}
+
+.acolor
+{
+	border-radius: 29px;
+} 
+.imga
+{
+	border-radius: 29px;
+	width:110%;
+	 padding: 0px 0px; margin: 5px;
+	 background-image: url('photo (1).jpg');
+	 background-image: url('photo (2).jpg');
+	 background-image: url('photo.jpg');
+}
+
